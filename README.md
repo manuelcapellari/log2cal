@@ -1,4 +1,4 @@
-# tv_log2outlook
+# log2out
 Ein kleines Powershell Script um das Teamviewer Connections Log welches unter %appdata%\Teamviewer} Connections.txt liegt für Zeiterfassungszwecke in einen Outlook Kalender zu schreiben
 
 Haftungsausschluss für log2cal.ps1
